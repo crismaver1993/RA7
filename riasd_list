@@ -10,7 +10,6 @@
          "country":"USA",
          "letter":"N",
          "language":"ES",
-         "playing":false,
          "isFeatured":true,
          "description":""
       },
@@ -23,7 +22,6 @@
          "country":"GT",
          "letter":"L",
          "language":"ES",
-         "playing":false,
          "isFeatured":true,
          "description":""
       },
@@ -36,7 +34,6 @@
          "country":"HN",
          "letter":"G",
          "language":"ES",
-         "playing":false,
          "isFeatured":true,
          "description":""
       },
@@ -49,7 +46,6 @@
          "country":"GT",
          "letter":"S",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -62,7 +58,6 @@
          "country":"USA",
          "letter":"P",
          "language":"ES",
-         "playing":false,
          "isFeatured":true,
          "description":""
       },
@@ -75,7 +70,6 @@
          "country":"USA",
          "letter":"E",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -88,7 +82,6 @@
          "country":"GT",
          "letter":"U",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -101,7 +94,6 @@
          "country":"TZ",
          "letter":"M",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -114,7 +106,6 @@
          "country":"CA",
          "letter":"K",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -127,7 +118,6 @@
          "country":"HN",
          "letter":"L",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -140,7 +130,6 @@
          "country":"USA",
          "letter":"M",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -153,7 +142,6 @@
          "country":"MX",
          "letter":"M",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -166,7 +154,6 @@
          "country":"I",
          "letter":"A",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -179,7 +166,6 @@
          "country":"USA",
          "letter":"W",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -192,7 +178,6 @@
          "country":"BR",
          "letter":"N",
          "language":"PT",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -205,7 +190,6 @@
          "country":"GT",
          "letter":"E",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -218,7 +202,6 @@
          "country":"BR",
          "letter":"B",
          "language":"PT",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -231,7 +214,6 @@
          "country":"HT",
          "letter":"L",
          "language":"FR",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -244,7 +226,6 @@
          "country":"USA",
          "letter":"A",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":"Adventus Radio: la señal con Bendicion (https://adventusradio.net/)"
       },
@@ -257,7 +238,6 @@
          "country":"SV",
          "letter":"R",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -270,7 +250,6 @@
          "country":"MX",
          "letter":"E",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -283,7 +262,6 @@
          "country":"USA",
          "letter":"M",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":"La Misión de Plenitud la Radio Adventista es proclamar bajo la conducción del Espiritu Santo el Evangelio eterno de los \"Tres Angeles\" revelado en el Apocalípsis 14:6-12."
       },
@@ -296,7 +274,6 @@
          "country":"USA",
          "letter":"M",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -309,7 +286,6 @@
          "country":"USA",
          "letter":"I",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -322,7 +298,6 @@
          "country":"PA",
          "letter":"N",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -335,7 +310,6 @@
          "country":"MX",
          "letter":"A",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -348,7 +322,6 @@
          "country":"NI",
          "letter":"J",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -361,7 +334,6 @@
          "country":"USA",
          "letter":"A",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -374,7 +346,6 @@
          "country":"CA",
          "letter":"A",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -387,7 +358,6 @@
          "country":"BO",
          "letter":"A",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -400,7 +370,6 @@
          "country":"CA",
          "letter":"S",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -413,7 +382,6 @@
          "country":"CA",
          "letter":"C",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -426,7 +394,6 @@
          "country":"CA",
          "letter":"N",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -439,7 +406,6 @@
          "country":"CA",
          "letter":"I",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -452,7 +418,6 @@
          "country":"USA",
          "letter":"I",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -465,7 +430,6 @@
          "country":"ES",
          "letter":"S",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -478,7 +442,6 @@
          "country":"USA",
          "letter":"J",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -491,7 +454,6 @@
          "country":"IT",
          "letter":"I",
          "language":"IT",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -504,7 +466,6 @@
          "country":"MX",
          "letter":"C",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -517,7 +478,6 @@
          "country":"BR",
          "letter":"T",
          "language":"PT",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -530,7 +490,6 @@
          "country":"BZ",
          "letter":"F",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -543,7 +502,6 @@
          "country":"USA",
          "letter":"C",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -556,7 +514,6 @@
          "country":"PE",
          "letter":"N",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -569,7 +526,6 @@
          "country":"EC",
          "letter":"E",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -582,7 +538,6 @@
          "country":"UK",
          "letter":"L",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -595,7 +550,6 @@
          "country":"USA",
          "letter":"L",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -608,7 +562,6 @@
          "country":"ES",
          "letter":"V",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -621,7 +574,6 @@
          "country":"ES",
          "letter":"N",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -634,7 +586,6 @@
          "country":"ANT",
          "letter":"O",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -647,7 +598,6 @@
          "country":"MX",
          "letter":"O",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -660,7 +610,6 @@
          "country":"SV",
          "letter":"A",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -673,7 +622,6 @@
          "country":"PR",
          "letter":"P",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -686,7 +634,6 @@
          "country":"USA",
          "letter":"L",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -699,7 +646,6 @@
          "country":"USA",
          "letter":"P",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -712,7 +658,6 @@
          "country":"USA",
          "letter":"P",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -725,7 +670,6 @@
          "country":"DO",
          "letter":"R",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -738,7 +682,6 @@
          "country":"USA",
          "letter":"G",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -751,7 +694,6 @@
          "country":"GT",
          "letter":"O",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -764,7 +706,6 @@
          "country":"USA",
          "letter":"A",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -777,7 +718,6 @@
          "country":"MX",
          "letter":"V",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -790,7 +730,6 @@
          "country":"USA",
          "letter":"A",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -803,7 +742,6 @@
          "country":"USA",
          "letter":"N",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -816,7 +754,6 @@
          "country":"USA",
          "letter":"S",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -829,7 +766,6 @@
          "country":"CO",
          "letter":"C",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -842,7 +778,6 @@
          "country":"BT",
          "letter":"V",
          "language":"FR",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -855,7 +790,6 @@
          "country":"BQ",
          "letter":"B",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -868,7 +802,6 @@
          "country":"CL",
          "letter":"S",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -881,7 +814,6 @@
          "country":"ES",
          "letter":"R",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -894,7 +826,6 @@
          "country":"PE",
          "letter":"A",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -907,7 +838,6 @@
          "country":"USA",
          "letter":"H",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -920,7 +850,6 @@
          "country":"MX",
          "letter":"J",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -933,7 +862,6 @@
          "country":"USA",
          "letter":"A",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -946,7 +874,6 @@
          "country":"HN",
          "letter":"N",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -959,7 +886,6 @@
          "country":"USA",
          "letter":"S",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -972,7 +898,6 @@
          "country":"BR",
          "letter":"A",
          "language":"PT",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -985,7 +910,6 @@
          "country":"MX",
          "letter":"P",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -998,7 +922,6 @@
          "country":"USA",
          "letter":"S",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1011,7 +934,6 @@
          "country":"USA",
          "letter":"S",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1024,7 +946,6 @@
          "country":"UY",
          "letter":"B",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1037,7 +958,6 @@
          "country":"DO",
          "letter":"A",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1050,7 +970,6 @@
          "country":"AR",
          "letter":"F",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1063,7 +982,6 @@
          "country":"CO",
          "letter":"E",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1076,7 +994,6 @@
          "country":"GT",
          "letter":"N",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1089,7 +1006,6 @@
          "country":"CO",
          "letter":"S",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1102,7 +1018,6 @@
          "country":"CR",
          "letter":"L",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1115,7 +1030,6 @@
          "country":"USA",
          "letter":"I",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1128,7 +1042,6 @@
          "country":"I",
          "letter":"N",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1141,7 +1054,6 @@
          "country":"USA",
          "letter":"I",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1154,7 +1066,6 @@
          "country":"NI",
          "letter":"A",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1167,7 +1078,6 @@
          "country":"CA",
          "letter":"E",
          "language":"FR",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1180,7 +1090,6 @@
          "country":"MX",
          "letter":"E",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1193,7 +1102,6 @@
          "country":"I",
          "letter":"H",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1206,7 +1114,6 @@
          "country":"USA",
          "letter":"P",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1219,7 +1126,6 @@
          "country":"JM",
          "letter":"N",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1232,7 +1138,6 @@
          "country":"UK",
          "letter":"A",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1245,7 +1150,6 @@
          "country":"USA",
          "letter":"L",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1258,7 +1162,6 @@
          "country":"RO",
          "letter":"V",
          "language":"RO",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1271,7 +1174,6 @@
          "country":"CA",
          "letter":"V",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1284,7 +1186,6 @@
          "country":"CL",
          "letter":"N",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1297,7 +1198,6 @@
          "country":"PT",
          "letter":"R",
          "language":"PT",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1310,7 +1210,6 @@
          "country":"USA",
          "letter":"N",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1323,7 +1222,6 @@
          "country":"ES",
          "letter":"S",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1336,7 +1234,6 @@
          "country":"PA",
          "letter":"V",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1349,7 +1246,6 @@
          "country":"USA",
          "letter":"P",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1362,7 +1258,6 @@
          "country":"AU",
          "letter":"F",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1375,7 +1270,6 @@
          "country":"I",
          "letter":"A",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1388,7 +1282,6 @@
          "country":"USA",
          "letter":"W",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1401,7 +1294,6 @@
          "country":"MX",
          "letter":"O",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1414,7 +1306,6 @@
          "country":"BR",
          "letter":"S",
          "language":"PT",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1427,7 +1318,6 @@
          "country":"PE",
          "letter":"P",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1440,7 +1330,6 @@
          "country":"FR",
          "letter":"T",
          "language":"FR",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1453,7 +1342,6 @@
          "country":"CA",
          "letter":"G",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1466,7 +1354,6 @@
          "country":"FR",
          "letter":"A",
          "language":"FR",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1479,7 +1366,6 @@
          "country":"USA",
          "letter":"V",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1492,7 +1378,6 @@
          "country":"GU",
          "letter":"M",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1505,7 +1390,6 @@
          "country":"USA",
          "letter":"P",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1518,7 +1402,6 @@
          "country":"CA",
          "letter":"Y",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1531,7 +1414,6 @@
          "country":"USA",
          "letter":"S",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1544,7 +1426,6 @@
          "country":"USA",
          "letter":"K",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1557,7 +1438,6 @@
          "country":"BR",
          "letter":"N",
          "language":"PT",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1570,7 +1450,6 @@
          "country":"US",
          "letter":"A",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1583,7 +1462,6 @@
          "country":"MX",
          "letter":"V",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1596,7 +1474,6 @@
          "country":"MX",
          "letter":"L",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1609,7 +1486,6 @@
          "country":"VZ",
          "letter":"L",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1622,7 +1498,6 @@
          "country":"USA",
          "letter":"K",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1635,7 +1510,6 @@
          "country":"AR",
          "letter":"N",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1648,7 +1522,6 @@
          "country":"VE",
          "letter":"V",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1661,7 +1534,6 @@
          "country":"ME",
          "letter":"S",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1674,7 +1546,6 @@
          "country":"SV",
          "letter":"R",
          "language":"ES",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1687,7 +1558,6 @@
          "country":"USA",
          "letter":"S",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       },
@@ -1700,7 +1570,6 @@
          "country":"AB",
          "letter":"A",
          "language":"EN",
-         "playing":false,
          "isFeatured":false,
          "description":""
       }
