@@ -129,7 +129,7 @@
          "language":"ES",
          "isFeatured":false,
          "description":"",
-         "recommended":false
+         "recommended":true
       },
       {
          "id":52,
@@ -142,7 +142,7 @@
          "language":"ES",
          "isFeatured":false,
          "description":"",
-         "recommended":false
+         "recommended":true
       },
       {
          "id":116,
@@ -1583,7 +1583,7 @@
          "language":"ES",
          "isFeatured":false,
          "description":"",
-         "recommended":false
+         "recommended":true
       },
       {
          "id":70,
@@ -1596,7 +1596,7 @@
          "language":"ES",
          "isFeatured":false,
          "description":"",
-         "recommended":false
+         "recommended":true
       },
       {
          "id":71,
@@ -1609,7 +1609,7 @@
          "language":"ES",
          "isFeatured":false,
          "description":"",
-         "recommended":false
+         "recommended":true
       },
       {
          "id":72,
@@ -1622,7 +1622,7 @@
          "language":"EN",
          "isFeatured":false,
          "description":"",
-         "recommended":false
+         "recommended":true
       },
       {
          "id":78,
@@ -1661,7 +1661,7 @@
          "language":"ES",
          "isFeatured":false,
          "description":"",
-         "recommended":false
+         "recommended":true
       },
       {
          "id":83,
