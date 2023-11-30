@@ -11,7 +11,7 @@
          "letter":"N",
          "language":"ES",
          "playing":false,
-         "isFeatured":false,
+         "isFeatured":true,
          "description":""
       },
       {
@@ -37,7 +37,7 @@
          "letter":"G",
          "language":"ES",
          "playing":false,
-         "isFeatured":false,
+         "isFeatured":true,
          "description":""
       },
       {
