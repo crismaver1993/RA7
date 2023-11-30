@@ -11,7 +11,8 @@
          "letter":"N",
          "language":"ES",
          "isFeatured":true,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":69,
@@ -23,7 +24,8 @@
          "letter":"L",
          "language":"ES",
          "isFeatured":true,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":9,
@@ -35,7 +37,8 @@
          "letter":"G",
          "language":"ES",
          "isFeatured":true,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":144,
@@ -47,7 +50,8 @@
          "letter":"S",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":141,
@@ -59,7 +63,8 @@
          "letter":"P",
          "language":"ES",
          "isFeatured":true,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":143,
@@ -71,7 +76,8 @@
          "letter":"E",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":12,
@@ -83,7 +89,8 @@
          "letter":"U",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":139,
@@ -95,7 +102,8 @@
          "letter":"M",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":127,
@@ -107,7 +115,8 @@
          "letter":"K",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":84,
@@ -119,7 +128,8 @@
          "letter":"L",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":true
       },
       {
          "id":52,
@@ -131,7 +141,8 @@
          "letter":"M",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":true
       },
       {
          "id":116,
@@ -143,7 +154,8 @@
          "letter":"M",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":45,
@@ -155,7 +167,8 @@
          "letter":"A",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":46,
@@ -167,7 +180,8 @@
          "letter":"W",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":132,
@@ -179,7 +193,8 @@
          "letter":"N",
          "language":"PT",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":138,
@@ -191,7 +206,8 @@
          "letter":"E",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":87,
@@ -203,7 +219,8 @@
          "letter":"B",
          "language":"PT",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":26,
@@ -215,7 +232,8 @@
          "letter":"L",
          "language":"FR",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":136,
@@ -239,7 +257,8 @@
          "letter":"R",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":50,
@@ -251,7 +270,8 @@
          "letter":"E",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":135,
@@ -275,7 +295,8 @@
          "letter":"M",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":19,
@@ -287,7 +308,8 @@
          "letter":"I",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":53,
@@ -299,7 +321,8 @@
          "letter":"N",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":131,
@@ -311,7 +334,8 @@
          "letter":"A",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":130,
@@ -323,7 +347,8 @@
          "letter":"J",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":129,
@@ -335,7 +360,8 @@
          "letter":"A",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":123,
@@ -347,7 +373,8 @@
          "letter":"A",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":73,
@@ -359,7 +386,8 @@
          "letter":"A",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":128,
@@ -371,7 +399,8 @@
          "letter":"S",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":126,
@@ -383,7 +412,8 @@
          "letter":"C",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":125,
@@ -395,7 +425,8 @@
          "letter":"N",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":124,
@@ -407,7 +438,8 @@
          "letter":"I",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":122,
@@ -419,7 +451,8 @@
          "letter":"I",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":80,
@@ -431,7 +464,8 @@
          "letter":"S",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":75,
@@ -443,7 +477,8 @@
          "letter":"J",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":89,
@@ -455,7 +490,8 @@
          "letter":"I",
          "language":"IT",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":121,
@@ -467,7 +503,8 @@
          "letter":"C",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":120,
@@ -479,7 +516,8 @@
          "letter":"T",
          "language":"PT",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":119,
@@ -491,7 +529,8 @@
          "letter":"F",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":118,
@@ -503,7 +542,8 @@
          "letter":"C",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":77,
@@ -515,7 +555,8 @@
          "letter":"N",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":85,
@@ -527,7 +568,8 @@
          "letter":"E",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":117,
@@ -539,7 +581,8 @@
          "letter":"L",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":115,
@@ -551,7 +594,8 @@
          "letter":"L",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":114,
@@ -563,7 +607,8 @@
          "letter":"V",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":113,
@@ -575,7 +620,8 @@
          "letter":"N",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":112,
@@ -587,7 +633,8 @@
          "letter":"O",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":111,
@@ -599,7 +646,8 @@
          "letter":"O",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":110,
@@ -611,7 +659,8 @@
          "letter":"A",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":109,
@@ -623,7 +672,8 @@
          "letter":"P",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":108,
@@ -635,7 +685,8 @@
          "letter":"L",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":107,
@@ -647,7 +698,8 @@
          "letter":"P",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":106,
@@ -659,7 +711,8 @@
          "letter":"P",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":105,
@@ -671,7 +724,8 @@
          "letter":"R",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":133,
@@ -683,7 +737,8 @@
          "letter":"G",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":10,
@@ -695,7 +750,8 @@
          "letter":"O",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":104,
@@ -707,7 +763,8 @@
          "letter":"A",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":103,
@@ -719,7 +776,8 @@
          "letter":"V",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":102,
@@ -731,7 +789,8 @@
          "letter":"A",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":101,
@@ -743,7 +802,8 @@
          "letter":"N",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":100,
@@ -755,7 +815,8 @@
          "letter":"S",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":99,
@@ -767,7 +828,8 @@
          "letter":"C",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":98,
@@ -779,7 +841,8 @@
          "letter":"V",
          "language":"FR",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":97,
@@ -791,7 +854,8 @@
          "letter":"B",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":96,
@@ -803,7 +867,8 @@
          "letter":"S",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":95,
@@ -815,7 +880,8 @@
          "letter":"R",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":94,
@@ -827,7 +893,8 @@
          "letter":"A",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":93,
@@ -839,7 +906,8 @@
          "letter":"H",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":92,
@@ -851,7 +919,8 @@
          "letter":"J",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":91,
@@ -863,7 +932,8 @@
          "letter":"A",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":1,
@@ -875,7 +945,8 @@
          "letter":"N",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":2,
@@ -887,7 +958,8 @@
          "letter":"S",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":3,
@@ -899,7 +971,8 @@
          "letter":"A",
          "language":"PT",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":4,
@@ -911,7 +984,8 @@
          "letter":"P",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":5,
@@ -923,7 +997,8 @@
          "letter":"S",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":6,
@@ -935,7 +1010,8 @@
          "letter":"S",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":7,
@@ -947,7 +1023,8 @@
          "letter":"B",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":8,
@@ -959,7 +1036,8 @@
          "letter":"A",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":11,
@@ -971,7 +1049,8 @@
          "letter":"F",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":14,
@@ -983,7 +1062,8 @@
          "letter":"E",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":15,
@@ -995,7 +1075,8 @@
          "letter":"N",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":16,
@@ -1007,7 +1088,8 @@
          "letter":"S",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":17,
@@ -1019,7 +1101,8 @@
          "letter":"L",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":18,
@@ -1031,7 +1114,8 @@
          "letter":"I",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":21,
@@ -1043,7 +1127,8 @@
          "letter":"N",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":22,
@@ -1055,7 +1140,8 @@
          "letter":"I",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":23,
@@ -1067,7 +1153,8 @@
          "letter":"A",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":24,
@@ -1079,7 +1166,8 @@
          "letter":"E",
          "language":"FR",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":25,
@@ -1091,7 +1179,8 @@
          "letter":"E",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":27,
@@ -1103,7 +1192,8 @@
          "letter":"H",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":28,
@@ -1115,7 +1205,8 @@
          "letter":"P",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":29,
@@ -1127,7 +1218,8 @@
          "letter":"N",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":30,
@@ -1139,7 +1231,8 @@
          "letter":"A",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":32,
@@ -1151,7 +1244,8 @@
          "letter":"L",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":33,
@@ -1163,7 +1257,8 @@
          "letter":"V",
          "language":"RO",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":34,
@@ -1175,7 +1270,8 @@
          "letter":"V",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":35,
@@ -1187,7 +1283,8 @@
          "letter":"N",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":36,
@@ -1199,7 +1296,8 @@
          "letter":"R",
          "language":"PT",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":39,
@@ -1211,7 +1309,8 @@
          "letter":"N",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":40,
@@ -1223,7 +1322,8 @@
          "letter":"S",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":41,
@@ -1235,7 +1335,8 @@
          "letter":"V",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":42,
@@ -1247,7 +1348,8 @@
          "letter":"P",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":43,
@@ -1259,7 +1361,8 @@
          "letter":"F",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":44,
@@ -1271,7 +1374,8 @@
          "letter":"A",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":46,
@@ -1283,7 +1387,8 @@
          "letter":"W",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":47,
@@ -1295,7 +1400,8 @@
          "letter":"O",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":48,
@@ -1307,7 +1413,8 @@
          "letter":"S",
          "language":"PT",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":51,
@@ -1319,7 +1426,8 @@
          "letter":"P",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":54,
@@ -1331,7 +1439,8 @@
          "letter":"T",
          "language":"FR",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":55,
@@ -1343,7 +1452,8 @@
          "letter":"G",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":57,
@@ -1355,7 +1465,8 @@
          "letter":"A",
          "language":"FR",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":58,
@@ -1367,7 +1478,8 @@
          "letter":"V",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":59,
@@ -1379,7 +1491,8 @@
          "letter":"M",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":60,
@@ -1391,7 +1504,8 @@
          "letter":"P",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":61,
@@ -1403,7 +1517,8 @@
          "letter":"Y",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":62,
@@ -1415,7 +1530,8 @@
          "letter":"S",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":63,
@@ -1427,7 +1543,8 @@
          "letter":"K",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":66,
@@ -1439,7 +1556,8 @@
          "letter":"N",
          "language":"PT",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":67,
@@ -1451,7 +1569,8 @@
          "letter":"A",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":68,
@@ -1463,7 +1582,8 @@
          "letter":"V",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":true
       },
       {
          "id":70,
@@ -1475,7 +1595,8 @@
          "letter":"L",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":true
       },
       {
          "id":71,
@@ -1487,7 +1608,8 @@
          "letter":"L",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":true
       },
       {
          "id":72,
@@ -1499,7 +1621,8 @@
          "letter":"K",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":true
       },
       {
          "id":78,
@@ -1511,7 +1634,8 @@
          "letter":"N",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":79,
@@ -1523,7 +1647,8 @@
          "letter":"V",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":82,
@@ -1535,7 +1660,8 @@
          "letter":"S",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":true
       },
       {
          "id":83,
@@ -1547,7 +1673,8 @@
          "letter":"R",
          "language":"ES",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":86,
@@ -1559,7 +1686,8 @@
          "letter":"S",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       },
       {
          "id":88,
@@ -1571,7 +1699,8 @@
          "letter":"A",
          "language":"EN",
          "isFeatured":false,
-         "description":""
+         "description":"",
+         "recommended":false
       }
    ]
 }
