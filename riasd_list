@@ -245,7 +245,8 @@
          "letter":"A",
          "language":"ES",
          "isFeatured":false,
-         "description":"Adventus Radio: la señal con Bendicion (https://adventusradio.net/)"
+         "description":"Adventus Radio: la señal con Bendicion (https://adventusradio.net/)",
+         "isRecommended":false
       },
       {
          "id":38,
@@ -283,7 +284,8 @@
          "letter":"M",
          "language":"ES",
          "isFeatured":false,
-         "description":"La Misión de Plenitud la Radio Adventista es proclamar bajo la conducción del Espiritu Santo el Evangelio eterno de los \"Tres Angeles\" revelado en el Apocalípsis 14:6-12."
+         "description":"La Misión de Plenitud la Radio Adventista es proclamar bajo la conducción del Espiritu Santo el Evangelio eterno de los \"Tres Angeles\" revelado en el Apocalípsis 14:6-12.",
+         "isRecommended":false
       },
       {
          "id":134,
