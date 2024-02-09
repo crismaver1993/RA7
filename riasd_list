@@ -235,19 +235,7 @@
          "description":"",
          "isRecommended":false
       },
-      {
-         "id":136,
-         "name":"Adventus radio",
-         "city":"Houston texas",
-         "url":"https://audioenvivo.one/listen/adventus/radio.mp3",
-         "src":"https://cldup.com/_mmB5lrSOZ.webp",
-         "country":"USA",
-         "letter":"A",
-         "language":"ES",
-         "isFeatured":false,
-         "description":"Adventus Radio: la señal con Bendicion (https://adventusradio.net/)",
-         "isRecommended":false
-      },
+     
       {
          "id":38,
          "name":"Radio 96.5 FM ",
