@@ -785,7 +785,7 @@
          "id":102,
          "name":"Radio Adventista Emmanuel Tampa",
          "city":"Tampa , EEUU",
-         "url":"http://edge.mixlr.com/channel/lqnqu",
+         "url":"https://stream-153.zeno.fm/8qxnrbccq9duv?zs=zBH4fW7NQ6eWkBB7POGQHA",
          "src":"https://cldup.com/Asw5HyTgdi.jpg",
          "country":"USA",
          "letter":"A",
@@ -885,19 +885,7 @@
          "description":"",
          "isRecommended":false
       },
-      {
-         "id":94,
-         "name":"Agape Radio",
-         "city":"Cajamarca, Perú",
-         "url":"https://stream.zenolive.com/wgpyqzfynwzuv.aac",
-         "src":"https://cldup.com/i73OMZH0aH.png",
-         "country":"PE",
-         "letter":"A",
-         "language":"ES",
-         "isFeatured":false,
-         "description":"",
-         "isRecommended":false
-      },
+      
       {
          "id":93,
          "name":"Hitos Profeticos Radio Adventista",
