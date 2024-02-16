@@ -969,7 +969,7 @@
          "id":5,
          "name":"Radio Adventista La Voz de la Verdad",
          "city":"Estados Unidos",
-         "url":"http://204.12.193.98:8219/stream",
+         "url":"https://cdn.instream.audio:9630",
          "src":"https://cldup.com/_kl3JdGKvr.png",
          "country":"USA",
          "letter":"S",
@@ -1212,19 +1212,7 @@
          "description":"",
          "isRecommended":false
       },
-      {
-         "id":32,
-         "name":"La Voz de la Verdad",
-         "city":"Los Ángeles, California",
-         "url":"http://204.12.193.98:8219/stream",
-         "src":"https://cldup.com/6D32zHc5bk.jpeg",
-         "country":"USA",
-         "letter":"L",
-         "language":"ES",
-         "isFeatured":false,
-         "description":"",
-         "isRecommended":false
-      },
+     
       {
          "id":33,
          "name":"Radio Vocea Sperantei",
