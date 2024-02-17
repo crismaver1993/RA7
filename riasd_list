@@ -11,7 +11,7 @@
          "letter":"N",
          "language":"ES",
          "isFeatured":true,
-         "description":"",
+         "description":"<p>La voz de un nuevo amanecer en tu vida con JES&Uacute;S.</p> <p>Sitio web: <a data-fr-linked="true" href="https://radionuevodia.com/">https://radionuevodia.com/</a></p>",
          "isRecommended":false
       },
       {
@@ -24,7 +24,7 @@
          "letter":"L",
          "language":"ES",
          "isFeatured":true,
-         "description":"",
+         "description":"Nuestra programación se distingue por la enseñanza bíblica, oración, consejería, música de calidad, programas educativos, programas para tu crecimiento espiritual y física. Sitio web: https://tresangelesgt.org/",
          "isRecommended":false
       },
       {
@@ -37,7 +37,7 @@
          "letter":"G",
          "language":"ES",
          "isFeatured":true,
-         "description":"",
+         "description":"<p>Somos la primera Radio Adventista en Honduras, llevamos una voz de esperanza al territorio atl&aacute;ntico.&nbsp;</p> <p>En Hope Radio Honduras Atl&aacute;ntica estamos para ayudarnos y comprendernos, tenemos un lugar para ti y compartir nuestra fe, juntos podemos descubrir nuevos horizontes para tener un mayor sentido de nuestra existencia.&nbsp;</p> <p>Sitio web: <a data-fr-linked="true" href="https://www.hoperadioatlantica.com/">https://www.hoperadioatlantica.com/</a></p>",
          "isRecommended":false
       },
       {
@@ -50,7 +50,7 @@
          "letter":"S",
          "language":"ES",
          "isFeatured":false,
-         "description":"",
+         "description":"<p>La estaci&oacute;n de la bendici&oacute;n y Salvaci&oacute;n que es en Cristo; tu espiritu se conecta al Creador a traves de la adoraci&oacute;n, oraci&oacute;n, m&uacute;sica juvenil, alabanzas y mensajes b&iacute;blicos.&nbsp;</p> <p>Cuenta con cobertura en el Occidente de Guatemala a trav&eacute;s de su frecuencia 107.9 y en todo el mundo por medio de su p&aacute;gina oficial y dem&aacute;s aplicaciones en internet, proclamando continuamente la vida nueva en Jes&uacute;s.</p> <p>Facebook : <a data-fr-linked="true" href="https://www.facebook.com/stereovidaquetzaltenango">https://www.facebook.com/stereovidaquetzaltenango</a></p>",
          "isRecommended":false
       },
       {
@@ -161,13 +161,13 @@
          "id":45,
          "name":"3ABN Radio",
          "city":"Internacional",
-         "url":"http://war.str3am.com:7180/live",
+         "url":"https://war.streamguys1.com:7185/live",
          "src":"https://cldup.com/TuODVZU9yD.jpg",
          "country":"I",
          "letter":"A",
          "language":"EN",
          "isFeatured":false,
-         "description":"",
+         "description":"Website: https://3abn.org/3abn-radio-broadcast.html",
          "isRecommended":false
       },
       {
@@ -748,7 +748,7 @@
          "name":"3ABN Latino",
          "city":"EEUU",
          "url":"https://war.streamguys1.com:7185/Latino",
-         "src":"https://cldup.com/abGMgbdm74.png",
+         "src":"https://cldup.com/zFrxPuFO84.png",
          "country":"USA",
          "letter":"A",
          "language":"ES",
@@ -949,7 +949,7 @@
          "letter":"A",
          "language":"PT",
          "isFeatured":false,
-         "description":"",
+         "description":"https://radioadvento.net",
          "isRecommended":false
       },
       {
@@ -1014,7 +1014,7 @@
          "letter":"A",
          "language":"ES",
          "isFeatured":false,
-         "description":"",
+         "description":"<p>La voz de la esperanza.</p> <p>Sitio web: <a data-fr-linked="true" href="https://www.adventistas.org.do/radioamanecer/">https://www.adventistas.org.do/radioamanecer/</a></p>",
          "isRecommended":false
       },
       {
@@ -1131,7 +1131,7 @@
          "letter":"A",
          "language":"ES",
          "isFeatured":false,
-         "description":"",
+         "description":"<p>ADVENT STEREO es una instituci&oacute;n cristiana Adventista del S&eacute;ptimo D&iacute;a sin fines de lucro, cuyo prop&oacute;sito de existir es exaltar el nombre de nuestro Dios, y llevar a cada oyente el mensaje de salvaci&oacute;n y esperanza reflejado en la Santa Palabra de Dios.Transmitimos programas orientados para que nuestros amigos oyentes tengan un encuentro personal con Jes&uacute;s, el Salvador del mundo, emitiendo orientaciones que construyan exitosamente el car&aacute;cter en todas sus &aacute;reas.Nuestra programaci&oacute;n incluye programas de salud, familia, m&uacute;sica, cultura, superaci&oacute;n y liderazgo, entre otros, resaltando el poderoso mensaje de la palabra de Dios expresada en los sermones y mensajes que llegan hasta cada oyente.Gracias a la bondadosa mano de Dios hemos llegado hasta este momento y nos seguimos depositando en sus manos para que &Eacute;l sostenga exitosamente nuestro ministerio.</p> <p>Sitio web: <a data-fr-linked="true" href="http://www.adventstereo.org/">http://www.adventstereo.org/</a></p>",
          "isRecommended":false
       },
       {
@@ -1209,7 +1209,7 @@
          "letter":"A",
          "language":"EN",
          "isFeatured":false,
-         "description":"",
+         "description":"<p>Formerly known as The AdventHour, Advent FM is part of Advent Broadcasting Network (ABN) and has been on air since 2002. Its schedule includes Message Of Hope, HeartWise and It Is Written.</p> <p>Website: <a data-fr-linked="true" href="https://www.adventfm.org/">https://www.adventfm.org/</a></p>",
          "isRecommended":false
       },
      
@@ -1340,7 +1340,7 @@
          "letter":"A",
          "language":"EN",
          "isFeatured":false,
-         "description":"",
+         "description":"Website: https://3abn.org/3abn-music-channel.html",
          "isRecommended":false
       },
       {
@@ -1431,7 +1431,7 @@
          "letter":"A",
          "language":"FR",
          "isFeatured":false,
-         "description":"",
+         "description":"<p>AdventLife Radio est une radio chr&eacute;tienne qui diffuse de la musique spirituel de louange et d&apos;adoration. Nous diffusons aussi du gospel et de la vari&eacute;t&eacute; chr&eacute;tienne. L&apos;association AdventLife est g&eacute;r&eacute;e par de jeunes chr&eacute;tiens Adventiste du 7&egrave;me jour d&eacute;sirant partager leur foi.</p> <p>Web: <a data-fr-linked="true" href="https://adventlife.fr/adventradio/V5/index.html">https://adventlife.fr/adventradio/V5/index.html</a></p>",
          "isRecommended":false
       },
       {
