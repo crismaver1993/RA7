@@ -1071,7 +1071,7 @@
          "id":17,
          "name":"Radio Lira",
          "city":"Costa Rica",
-         "url":"http://radios.y2kwebs.com:9962/stream",
+         "url":"https://radiolira.ice.infomaniak.ch/radiolira.aac",
          "src":"https://cldup.com/UkoZfQkxQS.jpg",
          "country":"CR",
          "letter":"L",
