@@ -1008,7 +1008,7 @@
          "id":8,
          "name":"Radio Amanecer",
          "city":"República Dominicana",
-         "url":"http://radioamanecer.soluvision.net:9035/stream",
+         "url":"https://sp.sintonizapp.com:7003/;type=mp3",
          "src":"https://cldup.com/FvRpbDd1_a.jpg",
          "country":"DO",
          "letter":"A",
