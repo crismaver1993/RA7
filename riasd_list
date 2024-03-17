@@ -1592,9 +1592,9 @@
       },
       {
          "id":78,
-         "name":"Nuevo Tiempo 91.1",
+         "name":"Nuevo Tiempo Argentina",
          "city":"Argentina",
-         "url":"http://108.59.11.81:8223/stream",
+         "url":"http://sonic.dattalive.com:8188/stream",
          "src":"https://cldup.com/dvDrMwTcHp.jpg",
          "country":"AR",
          "letter":"N",
