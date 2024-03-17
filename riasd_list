@@ -552,7 +552,7 @@
          "id":85,
          "name":"Nuevo Tiempo : Quito",
          "city":"Quito, Ecuador",
-         "url":"https://stream.live.novotempo.com/radio/smil:radionuevotiempo.smil/playlist.m3u8",
+         "url":"https://streamingecuador.net:7036/radionuevotiempo",
          "src":"https://cldup.com/2Reot89qEr.jpg",
          "country":"EC",
          "letter":"E",
