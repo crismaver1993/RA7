@@ -1099,7 +1099,7 @@
          "id":21,
          "name":"Radio Nuevo Tiempo",
          "city":"Red Nuevo Tiempo",
-         "url":"http://stream.novotempo.com:1935/radio/smil:radionuevotiempo.smil/playlist.m3u8",
+         "url":"https://stream.live.novotempo.com/radio/smil:radionuevotiempo.smil/media-ulv7z51eh_b96000_slesp_1837.aac",
          "src":"https://cldup.com/2Reot89qEr.jpg",
          "country":"I",
          "letter":"N",
