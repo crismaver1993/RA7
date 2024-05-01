@@ -1477,7 +1477,7 @@
          "id":61,
          "name":"Yonkodo Radio",
          "city":"Canadá",
-         "url":"https://yonkodoradio.getstreamhosting.com:8050/live",
+         "url":"https://cast4.servcast.net/proxy/yonkodoradio11231/stream",
          "src":"https://cldup.com/h5UFb1fpIu.jpg",
          "country":"CA",
          "letter":"Y",
