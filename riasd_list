@@ -721,7 +721,7 @@
          "id":133,
          "name":"THE GLOBAL FAMILY NETWORK",
          "city":"Online",
-         "url":"https://stream.eleden.com/tgfnradio.aac/tgfnradio.aac.stream/playlist.m3u8",
+         "url":"http://stream.eleden.com:8610/tgfnradio.aac",
          "src":"https://cldup.com/6-J4LJ4DUI.png",
          "country":"USA",
          "letter":"G",
