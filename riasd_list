@@ -1,6 +1,19 @@
 {
    "code":1,
    "radios":[
+{
+         "id":53,
+         "name":"1560AM La Voz de la Esperanza",
+         "city":"Panamá",
+         "url":"https://cloudstream2030.conectarhosting.com:9930/stream/1/",
+         "src":"https://cldup.com/qwXc_RxIZb.png",
+         "country":"PA",
+         "letter":"N",
+         "language":"ES",
+         "isFeatured":false,
+         "description":"",
+         "isRecommended":false
+      },
       {
          "id":145,
          "name":"Radio nuevo día",
@@ -68,10 +81,10 @@
       },
       {
          "id":143,
-         "name":"Elohim",
+         "name":"Radio Elohim",
          "city":"Tulsa Oklahoma",
-         "url":"http://us5freenew.listen2myradio.com:23192",
-         "src":"https://cldup.com/gm1EljJm_L.jpeg",
+         "url":"https://stream.zeno.fm/qnpkhow2azvtv",
+         "src":"https://cldup.com/RU1SoUjN1g.webp",
          "country":"USA",
          "letter":"E",
          "language":"ES",
@@ -301,19 +314,7 @@
          "description":"",
          "isRecommended":false
       },
-      {
-         "id":53,
-         "name":"1560AM La Voz de la Esperanza",
-         "city":"Panamá",
-         "url":"http://51.161.86.110:9930/stream",
-         "src":"https://cldup.com/qwXc_RxIZb.png",
-         "country":"PA",
-         "letter":"N",
-         "language":"ES",
-         "isFeatured":false,
-         "description":"",
-         "isRecommended":false
-      },
+      
       {
          "id":131,
          "name":"Radio Alfa y Omega",
