@@ -1,7 +1,9 @@
 {
    "code":1,
+   "aos_version":"",
+   "ios_version":"",
    "radios":[
-{
+      {
          "id":146,
          "name":"ADVENRED7",
          "city":"Perú",
@@ -14,7 +16,7 @@
          "description":"radioadvenred.com",
          "isRecommended":false
       },
-{
+      {
          "id":53,
          "name":"1560AM La Voz de la Esperanza",
          "city":"Panamá",
@@ -261,7 +263,6 @@
          "description":"",
          "isRecommended":false
       },
-     
       {
          "id":38,
          "name":"Radio 96.5 FM ",
@@ -327,7 +328,6 @@
          "description":"",
          "isRecommended":false
       },
-      
       {
          "id":131,
          "name":"Radio Alfa y Omega",
@@ -887,7 +887,6 @@
          "description":"",
          "isRecommended":false
       },
-      
       {
          "id":93,
          "name":"Hitos Profeticos Radio Adventista",
@@ -1226,7 +1225,6 @@
          "description":"",
          "isRecommended":false
       },
-     
       {
          "id":33,
          "name":"Radio Vocea Sperantei",
