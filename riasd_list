@@ -2,6 +2,16 @@
    "code":1,
    "aosVersion":"",
    "iosVersion":"",
+   "iosRadioIds":[
+      "7001",
+      "7002",
+      "7003",
+      "7004",
+      "7005"
+   ],
+   "iosVersionIds":[
+      
+   ],
    "radios":[
       {
          "id":146,
