@@ -14,6 +14,19 @@
    ],
    "radios":[
       {
+         "id":27,
+         "name":"Hymns & Favorites",
+         "city":"Internacional",
+         "url":"https://ice25.securenetsystems.net/AGCHF?playSessionID=904A5175-9A5B-4345-8E10F6D69A9845E3",
+         "src":"https://cldup.com/69jjNrfzRZ.jpg",
+         "country":"I",
+         "letter":"H",
+         "language":"EN",
+         "isFeatured":false,
+         "description":"",
+         "isRecommended":false
+      },
+      {
          "id":146,
          "name":"ADVENRED7",
          "city":"Perú",
@@ -784,7 +797,7 @@
          "id":103,
          "name":"Radio Voz Adventista",
          "city":"México",
-         "url":"https://stream.zenolive.com/q4cr9gdcptzuv.aac",
+         "url":"https://stream.zeno.fm/md51ehdcptzuv",
          "src":"https://cldup.com/Is4jTfbavy.jpg",
          "country":"MX",
          "letter":"V",
@@ -1044,7 +1057,7 @@
          "id":11,
          "name":"FM ESTUDIANTIL",
          "city":"El Plata, Argentina",
-         "url":"https://sonic.dattalive.com/8178/;",
+         "url":"https://sonic.host-live.com/8178/;",
          "src":"https://cldup.com/919OE2eZgG.jpg",
          "country":"AR",
          "letter":"F",
@@ -1179,19 +1192,6 @@
          "country":"MX",
          "letter":"E",
          "language":"ES",
-         "isFeatured":false,
-         "description":"",
-         "isRecommended":false
-      },
-      {
-         "id":27,
-         "name":"Hymns & Favorites",
-         "city":"Internacional",
-         "url":"https://das-edge16-live365-dal02.cdnstream.com/a18433",
-         "src":"https://cldup.com/69jjNrfzRZ.jpg",
-         "country":"I",
-         "letter":"H",
-         "language":"EN",
          "isFeatured":false,
          "description":"",
          "isRecommended":false
