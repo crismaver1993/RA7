@@ -61,7 +61,7 @@
          "country":"USA",
          "letter":"N",
          "language":"ES",
-         "isFeatured":true,
+         "isFeatured":false,
          "description":"",
          "isRecommended":false
       },
@@ -74,7 +74,7 @@
          "country":"GT",
          "letter":"L",
          "language":"ES",
-         "isFeatured":true,
+         "isFeatured":false,
          "description":"",
          "isRecommended":false
       },
@@ -87,7 +87,7 @@
          "country":"HN",
          "letter":"G",
          "language":"ES",
-         "isFeatured":true,
+         "isFeatured":false,
          "description":"",
          "isRecommended":false
       },
@@ -113,7 +113,7 @@
          "country":"USA",
          "letter":"P",
          "language":"ES",
-         "isFeatured":true,
+         "isFeatured":false,
          "description":"",
          "isRecommended":false
       },
@@ -180,7 +180,7 @@
          "language":"ES",
          "isFeatured":false,
          "description":"",
-         "isRecommended":true
+         "isRecommended":false
       },
       {
          "id":52,
@@ -193,7 +193,7 @@
          "language":"ES",
          "isFeatured":false,
          "description":"",
-         "isRecommended":true
+         "isRecommended":false
       },
       {
          "id":116,
@@ -581,7 +581,7 @@
          "country":"PE",
          "letter":"N",
          "language":"ES",
-         "isFeatured":true,
+         "isFeatured":false,
          "description":"",
          "isRecommended":false
       },
@@ -1571,7 +1571,7 @@
          "language":"ES",
          "isFeatured":false,
          "description":"",
-         "isRecommended":true
+         "isRecommended":false
       },
       {
          "id":70,
@@ -1584,7 +1584,7 @@
          "language":"ES",
          "isFeatured":false,
          "description":"",
-         "isRecommended":true
+         "isRecommended":false
       },
       {
          "id":71,
@@ -1597,7 +1597,7 @@
          "language":"ES",
          "isFeatured":false,
          "description":"",
-         "isRecommended":true
+         "isRecommended":false
       },
       {
          "id":72,
@@ -1610,7 +1610,7 @@
          "language":"EN",
          "isFeatured":false,
          "description":"",
-         "isRecommended":true
+         "isRecommended":false
       },
       {
          "id":78,
@@ -1649,7 +1649,7 @@
          "language":"ES",
          "isFeatured":false,
          "description":"",
-         "isRecommended":true
+         "isRecommended":false
       },
       {
          "id":83,
