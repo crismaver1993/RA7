@@ -1547,19 +1547,7 @@
          "description":"",
          "isRecommended":false
       },
-      {
-         "id":67,
-         "name":"Radio Adventista Los Ángeles",
-         "city":"California, USA",
-         "url":"http://18163.live.streamtheworld.com/SAM04AAC129_SC",
-         "src":"https://cldup.com/MHDjp7Ys9S.png",
-         "country":"US",
-         "letter":"A",
-         "language":"ES",
-         "isFeatured":false,
-         "description":"",
-         "isRecommended":false
-      },
+     
       {
          "id":68,
          "name":"Voces del Alba",
