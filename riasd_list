@@ -1380,19 +1380,7 @@
          "description":"",
          "isRecommended":false
       },
-      {
-         "id":40,
-         "name":"Seven Day Radio",
-         "city":"Madrid, España",
-         "url":"http://streaming.hostingadventista.com:9296/",
-         "src":"https://cldup.com/ulNue66wTn.png",
-         "country":"ES",
-         "letter":"S",
-         "language":"ES",
-         "isFeatured":false,
-         "description":"",
-         "isRecommended":false
-      },
+    
       {
          "id":41,
          "name":"Visión Global Radio",
