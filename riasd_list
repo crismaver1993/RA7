@@ -13,6 +13,19 @@
       
    ],
    "radios":[
+ {
+         "id":155,
+         "name":"Esperanza México",
+         "city":"México",
+         "url":"https://cloudstream2036.conectarhosting.com/8048/stream",
+         "src":"https://cldup.com/KBX188p3OD.webp",
+         "country":"MX",
+         "letter":"M",
+         "language":"ES",
+         "isFeatured":true,
+         "description":"",
+         "isRecommended":true
+      },
       {
          "id":151,
          "name":"Esperanza Colombia: Eje Cafetero",
@@ -22,7 +35,7 @@
          "country":"CO",
          "letter":"E",
          "language":"ES",
-         "isFeatured":true,
+         "isFeatured":false,
          "description":"",
          "isRecommended":false
       },
@@ -35,7 +48,7 @@
          "country":"CO",
          "letter":"E",
          "language":"ES",
-         "isFeatured":true,
+         "isFeatured":false,
          "description":"",
          "isRecommended":false
       },
@@ -48,7 +61,7 @@
          "country":"CO",
          "letter":"E",
          "language":"ES",
-         "isFeatured":true,
+         "isFeatured":false,
          "description":"",
          "isRecommended":false
       },
@@ -61,7 +74,7 @@
          "country":"CO",
          "letter":"E",
          "language":"ES",
-         "isFeatured":true,
+         "isFeatured":false,
          "description":"",
          "isRecommended":false
       },
