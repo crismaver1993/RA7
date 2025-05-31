@@ -13,6 +13,46 @@
       
    ],
    "radios":[
+{
+         "id":147,
+         "name":"Nuevo Tiempo: Bolivia",
+         "city":"Bolivia",
+         "url":"https://stream.live.novotempo.com/radio/smil:rntCochabambaBO.smil/playlist.m3u8",
+         "src":"https://cldup.com/2Reot89qEr.jpg",
+         "country":"BOL",
+         "letter":"B",
+         "language":"ES",
+         "isFeatured":true,
+         "description":"",
+         "isRecommended":false
+      },
+{
+         "id":148,
+         "name":"Nuevo Tiempo: Uruguay",
+         "city":"Uruguay",
+         "url":"https://stream.live.novotempo.com/radio/smil:rntMontevideoUY.smil/playlist.m3u8",
+         "src":"https://cldup.com/2Reot89qEr.jpg",
+         "country":"UR",
+         "letter":"U",
+         "language":"ES",
+         "isFeatured":false,
+         "description":"",
+         "isRecommended":true
+      },
+  {
+         "id":149,
+         "name":"Hope Radio: Atlantica",
+         "city":"Honduras",
+         "url":"https://sc10.conectarhosting.com/proxy/hoperadi/stream",
+         "src":"https://cldup.com/5y7FSHUipk.png",
+         "country":"HN",
+         "letter":"G",
+         "language":"ES",
+         "isFeatured":false,
+         "description":"",
+         "isRecommended":false
+      },
+
       {
          "id":27,
          "name":"Hymns & Favorites",
@@ -80,9 +120,9 @@
       },
       {
          "id":9,
-         "name":"Hope Radio Honduras",
-         "city":"La Ceiba, Atlántida, Honduras",
-         "url":"https://sapircast.caster.fm:10610/24vli?token=28771b78a87916dedbd144320c047d8e",
+         "name":"Hope Radio Honduras: Comayagüela",
+         "city":"Tegucigalpa, Honduras",
+         "url":"https://listen.radioking.com/radio/360379/stream/409918",
          "src":"https://cldup.com/5y7FSHUipk.png",
          "country":"HN",
          "letter":"G",
@@ -574,7 +614,7 @@
       },
       {
          "id":77,
-         "name":"Nuevo Tiempo Perú",
+         "name":"Nuevo Tiempo: Perú",
          "city":"Lima, Perú",
          "url":"https://stream.live.novotempo.com/radio/smil:rntLimaPE.smil/playlist.m3u8",
          "src":"https://cldup.com/t6unSZ3ijk.jpg",
@@ -587,9 +627,9 @@
       },
       {
          "id":85,
-         "name":"Nuevo Tiempo : Quito",
+         "name":"Nuevo Tiempo: Ecuador",
          "city":"Quito, Ecuador",
-         "url":"https://streamingecuador.net:7036/radionuevotiempo",
+         "url":"https://stream.live.novotempo.com/radio/smil:rntQuitoEC.smil/playlist.m3u8",
          "src":"https://cldup.com/2Reot89qEr.jpg",
          "country":"EC",
          "letter":"E",
@@ -639,7 +679,7 @@
       },
       {
          "id":113,
-         "name":"Radio Nuevo Tiempo España",
+         "name":"Nuevo Tiempo: España",
          "city":"España",
          "url":"http://n0d.radiojar.com/aesy2chkb?rj-ttl=5&rj-tok=AAABdRQ7RDUAPXvC94GS9SuHcw",
          "src":"https://cldup.com/9i_wcAPmD3.jpg",
@@ -847,7 +887,7 @@
       },
       {
          "id":99,
-         "name":"Nuevo Tiempo : Colombia",
+         "name":"Nuevo Tiempo: Colombia",
          "city":"Colombia",
          "url":"https://streamall.alsolnet.com/esperanzaradio",
          "src":"https://cldup.com/2Reot89qEr.jpg",
@@ -951,11 +991,11 @@
       },
       {
          "id":1,
-         "name":"Nuevo Tiempo : Honduras",
+         "name":"Nuevo Tiempo: Paraguay",
          "city":"Honduras",
-         "url":"http://cloudstream2030.conectarhosting.com:9978/stream",
-         "src":"https://cldup.com/Ajo1FuZIGh.png",
-         "country":"HN",
+         "url":"https://stream.live.novotempo.com/radio/smil:rntAsuncionPY.smil/playlist.m3u8",
+         "src":"https://cldup.com/2Reot89qEr.jpg",
+         "country":"PY",
          "letter":"N",
          "language":"ES",
          "isFeatured":false,
@@ -988,19 +1028,7 @@
          "description":"",
          "isRecommended":false
       },
-      {
-         "id":4,
-         "name":"Radio Adventista Palmar",
-         "city":"México",
-         "url":"http://streaming.wp-m.com:9658/stream",
-         "src":"https://cldup.com/yVLSozbRa7.png",
-         "country":"MX",
-         "letter":"P",
-         "language":"ES",
-         "isFeatured":false,
-         "description":"",
-         "isRecommended":false
-      },
+    
       {
          "id":5,
          "name":"Radio Adventista La Voz de la Verdad",
@@ -1081,7 +1109,7 @@
       },
       {
          "id":15,
-         "name":"Nuevo Tiempo GT",
+         "name":"Nuevo Tiempo: GT",
          "city":"Guatemala",
          "url":"https://stream-154.zeno.fm/q4q1qrgtrhruv?zs",
          "src":"https://cldup.com/YKH7EC3OfM.jpg",
@@ -1263,9 +1291,9 @@
       },
       {
          "id":35,
-         "name":"Nuevo Tiempo Chile",
+         "name":"Nuevo Tiempo: Chile",
          "city":"Chile",
-         "url":"https://stream-165.zeno.fm/xnk291h7e8zuv",
+         "url":"https://stream.live.novotempo.com/radio/smil:rntChillanCL.smil/playlist.m3u8",
          "src":"https://cldup.com/K6f4UUvPC3.jpg",
          "country":"CL",
          "letter":"N",
@@ -1602,9 +1630,9 @@
       },
       {
          "id":78,
-         "name":"Nuevo Tiempo Argentina",
+         "name":"Nuevo Tiempo: Argentina",
          "city":"Argentina",
-         "url":"http://sonic.dattalive.com:8188/stream",
+         "url":"https://stream.live.novotempo.com/radio/smil:rntBuenosAiresAR.smil/playlist.m3u8",
          "src":"https://cldup.com/dvDrMwTcHp.jpg",
          "country":"AR",
          "letter":"N",
