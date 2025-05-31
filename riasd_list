@@ -1250,19 +1250,7 @@
          "description":"",
          "isRecommended":false
       },
-      {
-         "id":24,
-         "name":"Radio EAFO",
-         "city":"Montreal, Canadá",
-         "url":"http://s22.myradiostream.com:9978/listen.mp3",
-         "src":"https://cldup.com/n0Diq7oJmT.jpg",
-         "country":"CA",
-         "letter":"E",
-         "language":"FR",
-         "isFeatured":false,
-         "description":"",
-         "isRecommended":false
-      },
+     
       {
          "id":25,
          "name":"Radio El Último Pregón",
