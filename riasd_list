@@ -743,9 +743,9 @@
       },
       {
          "id":114,
-         "name":"Radio Verdad de Cristo",
-         "city":"Honduras",
-         "url":"https://media.cdebs.com/8008/stream",
+         "name":"Stereo Fe",
+         "city":"Panamá",
+         "url":"https://www.streaming507.net:8016/stream",
          "src":"https://cldup.com/o4lA1LTF96.jpg",
          "country":"ES",
          "letter":"V",
@@ -1449,14 +1449,14 @@
          "id":46,
          "name":"WGTS 91.9",
          "city":"Washington, DC",
-         "url":"http://ic2.christiannetcast.com/wgts-fm",
+         "url":"https://das-edge09-live365-dal03.cdnstream.com/a97875_2?dt=1748701449249",
          "src":"https://cldup.com/3hZDgvAH4f.jpg",
          "country":"USA",
          "letter":"W",
          "language":"EN",
          "isFeatured":false,
          "description":"",
-         "isRecommended":false
+         "isRecommended":true
       },
       {
          "id":47,
