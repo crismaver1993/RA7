@@ -1222,19 +1222,7 @@
          "description":"",
          "isRecommended":false
       },
-      {
-         "id":18,
-         "name":"Radio Inspiración",
-         "city":"Fresno, California",
-         "url":"http://streaming.capasiete.com:9876",
-         "src":"https://cldup.com/7Se05xC2AL.jpg",
-         "country":"USA",
-         "letter":"I",
-         "language":"ES",
-         "isFeatured":false,
-         "description":"",
-         "isRecommended":false
-      },
+     
       {
          "id":21,
          "name":"Radio Nuevo Tiempo",
@@ -1248,19 +1236,7 @@
          "description":"",
          "isRecommended":false
       },
-      {
-         "id":22,
-         "name":"Radio Internacional Adventista",
-         "city":"Estados Unidos",
-         "url":"http://198.15.86.218:9604/",
-         "src":"https://cldup.com/CpJ86q5eV9.jpg",
-         "country":"USA",
-         "letter":"I",
-         "language":"ES",
-         "isFeatured":false,
-         "description":"",
-         "isRecommended":false
-      },
+     
       {
          "id":23,
          "name":"Advent Stereo",
@@ -1538,7 +1514,7 @@
          "id":55,
          "name":"Radio Glas Nade",
          "city":"Toronto, Canadá",
-         "url":"http://109.235.71.229:8000/rgn1",
+         "url":"https://radio.glasnade.com:7999/rgn1",
          "src":"https://cldup.com/LLDDJs9wHU.jpg",
          "country":"CA",
          "letter":"G",
