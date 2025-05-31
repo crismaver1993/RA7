@@ -13,7 +13,72 @@
       
    ],
    "radios":[
-{
+      {
+         "id":151,
+         "name":"Esperanza Colombia: Eje Cafetero",
+         "city":"Colombia",
+         "url":"https://usmia00-edge.teveo.com.co/live/AeAAAgBDAAAGA2IAAAAAAAAAAAAAAAAAAmg7AnPJrKyXAAAA/media_w1491875731_609081.aac",
+         "src":"https://cldup.com/KRhVCQ9Zkc.jpg",
+         "country":"CO",
+         "letter":"E",
+         "language":"ES",
+         "isFeatured":true,
+         "description":"",
+         "isRecommended":false
+      },
+      {
+         "id":152,
+         "name":"Esperanza Colombia: Amazonas",
+         "city":"Colombia",
+         "url":"https://usmia00-edge.teveo.com.co/live/AeAAAgAwAA5DA2IAAAAAAAAAAAAAAAAAAmg7AvDJrKyXAAAA/media_w895579638_2173779.aac",
+         "src":"https://cldup.com/KRhVCQ9Zkc.jpg",
+         "country":"CO",
+         "letter":"E",
+         "language":"ES",
+         "isFeatured":true,
+         "description":"",
+         "isRecommended":false
+      },
+      {
+         "id":153,
+         "name":"Esperanza Colombia: Tolima",
+         "city":"Colombia",
+         "url":"https://usmia00-edge.teveo.com.co/live/AeAAAgAwAA5FA2IAAAAAAAAAAAAAAAAAAmg7AzTJrKyXAAAA/media_w1124392424_21857.aac",
+         "src":"https://cldup.com/KRhVCQ9Zkc.jpg",
+         "country":"CO",
+         "letter":"E",
+         "language":"ES",
+         "isFeatured":true,
+         "description":"",
+         "isRecommended":false
+      },
+      {
+         "id":154,
+         "name":"Esperanza Colombia: Valle del Cauca",
+         "city":"Colombia",
+         "url":"https://usmia00-edge.teveo.com.co/live/AeAAAgAwAA5GA2IAAAAAAAAAAAAAAAAAAmg7A1vJrKyXAAAA/media_w1571019115_2174010.aac",
+         "src":"https://cldup.com/KRhVCQ9Zkc.jpg",
+         "country":"CO",
+         "letter":"E",
+         "language":"ES",
+         "isFeatured":true,
+         "description":"",
+         "isRecommended":false
+      },
+      {
+         "id":150,
+         "name":"Adventist Hope Radio",
+         "city":"Papúa Nueva Guinea",
+         "url":"https://servidor30-3.brlogic.com:7020/live",
+         "src":"https://cldup.com/Dk2oy2q6vR.webp",
+         "country":"PNG",
+         "letter":"P",
+         "language":"EN",
+         "isFeatured":true,
+         "description":"",
+         "isRecommended":false
+      },
+      {
          "id":147,
          "name":"Nuevo Tiempo: Bolivia",
          "city":"Bolivia",
@@ -26,7 +91,7 @@
          "description":"",
          "isRecommended":false
       },
-{
+      {
          "id":148,
          "name":"Nuevo Tiempo: Uruguay",
          "city":"Uruguay",
@@ -39,7 +104,7 @@
          "description":"",
          "isRecommended":true
       },
-  {
+      {
          "id":149,
          "name":"Hope Radio: Atlantica",
          "city":"Honduras",
@@ -52,7 +117,6 @@
          "description":"",
          "isRecommended":false
       },
-
       {
          "id":27,
          "name":"Hymns & Favorites",
@@ -1028,7 +1092,6 @@
          "description":"",
          "isRecommended":false
       },
-    
       {
          "id":5,
          "name":"Radio Adventista La Voz de la Verdad",
@@ -1096,9 +1159,9 @@
       },
       {
          "id":14,
-         "name":"Esperanza Colombia",
+         "name":"Esperanza Colombia: Bogotá",
          "city":"Colombia",
-         "url":"http://radiolatina.live:9774/",
+         "url":"https://edge.teveo.net/live/AeAAAgAwAAOAA2IAAAAAAAAAAAAAAAAAAmg7ARHJrKyXAAAA/playlist.m3u8",
          "src":"https://cldup.com/KRhVCQ9Zkc.jpg",
          "country":"CO",
          "letter":"E",
@@ -1575,7 +1638,6 @@
          "description":"",
          "isRecommended":false
       },
-     
       {
          "id":68,
          "name":"Voces del Alba",
@@ -1676,19 +1738,6 @@
          "country":"SV",
          "letter":"R",
          "language":"ES",
-         "isFeatured":false,
-         "description":"",
-         "isRecommended":false
-      },
-      {
-         "id":86,
-         "name":"Advent Hope Radio",
-         "city":"San Francisco, CA",
-         "url":"http://cloudstream2030.conectarhosting.com:9966/",
-         "src":"https://cldup.com/2ddLM1Tz5S.webp",
-         "country":"USA",
-         "letter":"S",
-         "language":"EN",
          "isFeatured":false,
          "description":"",
          "isRecommended":false
