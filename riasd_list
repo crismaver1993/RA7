@@ -1549,19 +1549,7 @@
          "description":"",
          "isRecommended":false
       },
-      {
-         "id":59,
-         "name":"Melodies of Prayer",
-         "city":"Guam",
-         "url":"http://99.198.109.149/",
-         "src":"https://cldup.com/2w0riSAjey.jpg",
-         "country":"GU",
-         "letter":"M",
-         "language":"EN",
-         "isFeatured":false,
-         "description":"",
-         "isRecommended":false
-      },
+    
       {
          "id":60,
          "name":"Radio Proclamad",
