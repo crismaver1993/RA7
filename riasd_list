@@ -342,14 +342,14 @@
          "id":46,
          "name":"WGTS 91.9",
          "city":"Washington, DC",
-         "url":"http://ic2.christiannetcast.com/wgts-fm",
+         "url":"https://das-edge12-live365-dal02.cdnstream.com/a86254?dt=1748701604557",
          "src":"https://cldup.com/3hZDgvAH4f.jpg",
          "country":"USA",
          "letter":"W",
          "language":"EN",
          "isFeatured":false,
          "description":"",
-         "isRecommended":false
+         "isRecommended":true
       },
       {
          "id":132,
