@@ -732,7 +732,7 @@
          "id":115,
          "name":"La Estrella del Amanecer Radio",
          "city":"Atlanta",
-         "url":"https://streamingv2.shoutcast.com/la-estrella-del-amanecer-radio?lang=en-us",
+         "url":"https://s10.citrus3.com:8186/stream",
          "src":"https://cldup.com/bMYrhFoSrQ.png",
          "country":"USA",
          "letter":"L",
