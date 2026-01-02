@@ -13,7 +13,19 @@
       
    ],
    "radios":[
-
+{
+         "id":159,
+         "name":"Nuevo Tiempo 94.5",
+         "city":"Uruguay",
+         "url":"https://streaming2.mundoradio.com.ar:10918/stream",
+         "src":"https://cldup.com/2Reot89qEr.jpg",
+         "country":"UR",
+         "letter":"N",
+         "language":"ES",
+         "isFeatured":true,
+         "description":"",
+         "isRecommended":false
+      },
 {
          "id":158,
          "name":"AWR - Orayon 89.0 FM",
