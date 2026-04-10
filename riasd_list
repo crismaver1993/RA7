@@ -14,6 +14,19 @@
    ],
    "radios":[
 {
+         "id":160,
+         "name":"MMR Radio",
+         "city":"United States",
+         "url":"https://stream.zeno.fm/rhbodnqj3azuv",
+         "src":"https://cldup.com/sMtATypZsr.jpg",
+         "country":"USA",
+         "letter":"M",
+         "language":"ES",
+         "isFeatured":true,
+         "description":"",
+         "isRecommended":false
+      },
+{
          "id":159,
          "name":"Nuevo Tiempo 94.5",
          "city":"Argentina",
@@ -745,7 +758,7 @@
          "id":77,
          "name":"Nuevo Tiempo: Perú",
          "city":"Lima, Perú",
-         "url":"https://stream.live.novotempo.com/radio/smil:rntLimaPE.smil/playlist.m3u8",
+         "url":"https://streamradio.novotempo.com/CDN-RADIO-ES/smil:rntLimaPE.smil/playlist.m3u8",
          "src":"https://cldup.com/t6unSZ3ijk.jpg",
          "country":"PE",
          "letter":"N",
