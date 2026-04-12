@@ -16,12 +16,12 @@
 {
          "id":160,
          "name":"MMR Radio",
-         "city":"United States",
+         "city":"South Africa",
          "url":"https://stream.zeno.fm/rhbodnqj3azuv",
          "src":"https://cldup.com/sMtATypZsr.jpg",
-         "country":"USA",
+         "country":"ZA",
          "letter":"M",
-         "language":"ES",
+         "language":"EN",
          "isFeatured":true,
          "description":"",
          "isRecommended":false
@@ -938,9 +938,9 @@
       },
       {
          "id":133,
-         "name":"THE GLOBAL FAMILY NETWORK",
+         "name":"GLOBAL FAMILY NETWORK",
          "city":"Online",
-         "url":"http://stream.eleden.com:8610/tgfnradio.aac",
+         "url":"https://globalnetworkradio.out.airtime.pro/globalnetworkradio_a",
          "src":"https://cldup.com/6-J4LJ4DUI.png",
          "country":"USA",
          "letter":"G",
